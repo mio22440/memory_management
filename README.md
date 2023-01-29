@@ -1,0 +1,2 @@
+# memory_management
+嵌入式实时操作系统内存管理机制的简易实现
